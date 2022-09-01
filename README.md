@@ -3,8 +3,7 @@
 
 ## Setup the Environment
 
-* Create a virtualenv with Python 3.7 and activate it. Refer to this link for help on specifying the Python version in the virtualenv. 
-```bash
+* Create a virtualenv with Python 3.7 and activate it. 
 python3 -m pip install --user virtualenv
 # You should have Python 3.7 available in your host. 
 # Check the Python path using `which python3`
